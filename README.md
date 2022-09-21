@@ -18,7 +18,8 @@ Exp no 5
 ![image](https://user-images.githubusercontent.com/112625430/191411159-8dfcb499-231a-4725-92a4-8b6247f0654d.png)
 ![image](https://user-images.githubusercontent.com/112625430/191411175-cc78179a-ae66-49e3-830b-572303d98706.png)
 ![image](https://user-images.githubusercontent.com/112625430/191411185-de6c4e46-bfcf-462b-8e43-de09a960b69e.png)
- Exp no 6
+Exp no 6
+
 ![image](https://user-images.githubusercontent.com/112625430/191411232-55828498-3e5d-4f23-bf65-f24dc19d50c3.png)
 ![image](https://user-images.githubusercontent.com/112625430/191411264-54cf3207-71ce-4cab-8175-5159108b6da9.png)
  Exp no 7
