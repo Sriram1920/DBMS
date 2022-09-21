@@ -3,3 +3,5 @@ Exp no 1
  Exp no 2
  ![image](https://user-images.githubusercontent.com/112625430/191408958-92746ee2-279e-4b2b-819c-7904db7a7fb0.png)
 ![image](https://user-images.githubusercontent.com/112625430/191409030-0b9fe76f-e3a4-416c-b87d-271935fa2a38.png)
+Exp no 3
+![image](https://user-images.githubusercontent.com/112625430/191409113-8832d3d6-1dca-43d6-9fc5-6089509b58c9.png)
