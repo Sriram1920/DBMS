@@ -9,6 +9,7 @@ Exp no 4
 ![image](https://user-images.githubusercontent.com/112625430/191411027-7d068b9a-b919-46d9-b19e-95ab7320edd8.png)
 ![image](https://user-images.githubusercontent.com/112625430/191411041-78dab8dd-56f7-47cf-b67c-c7af05bf0f2a.png)
 Exp no 5
+![image](https://user-images.githubusercontent.com/112625430/191412009-32a491e3-0431-41f1-8215-aa0c6cf512d7.png)
 
 ![image](https://user-images.githubusercontent.com/112625430/191411094-1fd95dc2-af1e-4662-a165-dcd0873edeb2.png)
 ![image](https://user-images.githubusercontent.com/112625430/191411111-1135f57c-c0a3-4595-9b1c-a7b05f4e1e72.png)  ![image](https://user-images.githubusercontent.com/112625430/191411132-c844ce3f-a214-4412-8380-b37728867f15.png)
